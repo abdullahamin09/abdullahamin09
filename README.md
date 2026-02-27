@@ -66,7 +66,6 @@ I am a **Full-Stack Web Developer** with a passion for building clean, responsiv
 
 ## 📫 Contact Me
 - 📧 Email: aminaminabdullah9@gmail.com  
-- 📱 Phone: +92 3131542112  
 - 🌐 Portfolio: [https://abdullah-amin.vercel.app/](https://abdullah-amin.vercel.app/)
 
 ---
