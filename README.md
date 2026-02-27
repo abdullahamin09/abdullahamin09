@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Abdullah Amin | Full-Stack Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahswe09/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WanderlustWhirl)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-amin09/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahamin09)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white)](https://abdullah-amin.vercel.app/)
 
 ---
 
@@ -65,9 +65,9 @@ I am a **Full-Stack Web Developer** with a passion for building clean, responsiv
 ---
 
 ## 📫 Contact Me
-- 📧 Email: abdullahswe09@gmail.com  
+- 📧 Email: aminaminabdullah9@gmail.com  
 - 📱 Phone: +92 3131542112  
-- 🌐 Portfolio: [https://yourportfolio.com](https://yourportfolio.com)
+- 🌐 Portfolio: [https://abdullah-amin.vercel.app/](https://abdullah-amin.vercel.app/)
 
 ---
 
